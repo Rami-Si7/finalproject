@@ -1,6 +1,6 @@
-#HSTS - High School Test System
+# HSTS - High School Test System
 
-#Overview
+# Overview
 
 HSTS (High School Test System) is a computerized information system designed to streamline and enhance the efficiency of the exam process in high schools. It facilitates tasks such as:
 
