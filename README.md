@@ -19,29 +19,6 @@ The system improves both the reliability and ease of exam administration.
 * Exam Distribution: Distribute exams to students electronically.
 * Grading and Statistics: Manage exam grading and provide insightful statistics on exam performance.
 
-Memory updated
-Here's a template for a solid README file for your HSTS project on GitHub:
-
-HSTS - High School Test System
-
-Overview
-
-HSTS (High School Test System) is a computerized information system designed to streamline and enhance the efficiency of the exam process in high schools. It facilitates tasks such as:
-
-Question creation
-Exam generation
-Distribution of exams to students
-Approval and grading
-Access to grades and exam statistics
-The system improves both the reliability and ease of exam administration.
-
-# Features
-
-* Question Bank Management: Create, edit, and store exam questions.
-* Exam Generation: Generate exams using predefined templates or custom selections.
-* Exam Distribution: Distribute exams to students electronically.
-* Grading and Statistics: Manage exam grading and provide insightful statistics on exam performance.
-
 
 # System Architecture
 
